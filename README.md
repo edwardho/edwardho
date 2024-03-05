@@ -44,8 +44,16 @@ How to reach me:
 ![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge&logo=xml&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-white?style=for-the-badge&logo=yaml&logoColor=black)
 ![Parquet](https://img.shields.io/badge/Parquet-brown?style=for-the-badge&logo=apacheparquet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-navy?style=for-the-badge&logo=helm&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-crimson?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-seagreen?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-deeppink?style=for-the-badge&logo=kibana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-blueviolet?style=for-the-badge&logo=datadog&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-crimson?style=for-the-badge&logo=graylog&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-tomato?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -53,11 +61,6 @@ How to reach me:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-navy?style=for-the-badge&logo=helm&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-maroon?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=for-the-badge&logo=charles&logoColor=white)
