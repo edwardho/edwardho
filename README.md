@@ -29,7 +29,7 @@ How to reach me:
 <div align="center">
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-blueviolet?style=for-the-badge&logo=haskell&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=black)
@@ -65,8 +65,8 @@ How to reach me:
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=for-the-badge&logo=charles&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJIdea](https://img.shields.io/badge/Intellij_IDEA-deeppink?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJIdea](https://img.shields.io/badge/Intellij_IDEA-deeppink?style=for-the-badge&logo=intellijidea&logoColor=blue)
+![Pycharm](https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-purple?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-green?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![XCode](https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=xcode&logoColor=white)
