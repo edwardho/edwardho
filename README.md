@@ -17,7 +17,7 @@ Who I am:
 📈 Data Driven
 
 Working on:
-📊 Data pipelines
+📊 Data Pipelines
 🤖 Machine Learning / Deep Learning
 
 How to reach me:
