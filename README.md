@@ -9,7 +9,7 @@
 
 </div>
 
-### `$ whoami | xargs ls`:
+### Profile
 ```
 Who I am:
 🧑🏻‍💻 Software Engineer
@@ -24,7 +24,7 @@ How to reach me:
 📫 LinkedIn
 ```
 
-### `$ ~/skills`:
+### Skills
 
 <div align="center">
 
@@ -75,7 +75,7 @@ How to reach me:
 
 <br/>
 
-### `$ git history`:
+### Git History
 
 <div align="center">
   
@@ -85,4 +85,3 @@ How to reach me:
 
 <br/>
 
-### `$ exit()`
