@@ -56,7 +56,7 @@ How to reach me:
 ![Databricks](https://img.shields.io/badge/Databricks-tomato?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -65,8 +65,8 @@ How to reach me:
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=for-the-badge&logo=charles&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJIdea](https://img.shields.io/badge/Intellij_IDEA-deeppink?style=for-the-badge&logo=intellijidea&logoColor=blue)
-![Pycharm](https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=blue)
+![IntelliJIdea](https://img.shields.io/badge/Intellij_IDEA-deeppink?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-purple?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-green?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![XCode](https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=xcode&logoColor=white)
