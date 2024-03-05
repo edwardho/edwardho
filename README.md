@@ -9,7 +9,7 @@
 
 </div>
 
-### Profile
+## Profile
 ```
 Who I am:
 🧑🏻‍💻 Software Engineer
@@ -24,11 +24,11 @@ How to reach me:
 📫 LinkedIn
 ```
 
-### Skills
+## Skills
 
 <div align="center">
 
-## Backend
+### Backend
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-blueviolet?style=for-the-badge&logo=haskell&logoColor=white)
@@ -55,12 +55,12 @@ How to reach me:
 ![Graylog](https://img.shields.io/badge/Graylog-crimson?style=for-the-badge&logo=graylog&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-tomato?style=for-the-badge&logo=databricks&logoColor=white)
 
-## Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Tools
+### Tools
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=for-the-badge&logo=charles&logoColor=white)
@@ -75,7 +75,7 @@ How to reach me:
 
 <br/>
 
-### Git History
+## Git History
 
 <div align="center">
   
